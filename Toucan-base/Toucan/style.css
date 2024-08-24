@@ -161,3 +161,13 @@ body {
   padding: 20px;
   font-family: Playwrite NZ;
 }
+
+.description {
+  background-color: gray;
+  text-align: center;
+  font-family: Playwrite NZ;
+  margin: 0 auto;
+  padding: 20px;
+  width: 90%;
+  border-radius: 5%;
+}
