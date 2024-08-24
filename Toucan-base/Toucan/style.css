@@ -171,3 +171,20 @@ body {
   width: 90%;
   border-radius: 5%;
 }
+
+.home {
+  display: flex;
+  width: 90%;
+  background-color: gray;
+  font-family: Playwrite NZ;
+  margin: 0 auto;
+  padding: 20px;
+  width: 90%;
+  border-radius: 5%;
+}
+
+#homeimg {
+  height: 300px;
+  width: 400px;
+  float: right;
+}
