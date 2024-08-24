@@ -147,3 +147,17 @@ body {
 .about h3 {
   margin: 10px;
 }
+
+.form {
+  display: flex;
+  justify-content: center;
+  background-color: #f2e3bc;
+}
+
+.instructions {
+  width: 60%;
+  border-radius: 5%;
+  margin: 20px;
+  padding: 20px;
+  font-family: Playwrite NZ;
+}
