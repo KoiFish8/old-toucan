@@ -1,1 +1,1 @@
-This is an unfinished website for the Toucan organization
+This is the website for the Toucan organization
